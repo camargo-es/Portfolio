@@ -1,0 +1,109 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="figcaption" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E251" />
+          <option value="E302" />
+          <option value="E231" />
+          <option value="E305" />
+          <option value="E225" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="str" />
+          <option value="float" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="models.calcular.self" />
+          <option value="models.calcular.Nome" />
+          <option value="Nome" />
+          <option value="object._gerar_resultado" />
+          <option value="object._gerar_valor" />
+          <option value="object.__dificuldade" />
+          <option value="object.__valor1" />
+          <option value="object.__valor2" />
+          <option value="object.__operacao" />
+          <option value="object.__resultado" />
+          <option value="object.operacao" />
+          <option value="object.valor1" />
+          <option value="object.valor2" />
+          <option value="object.resultado" />
+          <option value="object._op_simbolo" />
+          <option value="models.calcular.Calcular.mostrar_operacao" />
+          <option value="models.calcular.Calcular.checar_resultado" />
+          <option value="game.__nome__" />
+          <option value="Models.produto.Produto" />
+          <option value="object.__codigo" />
+          <option value="Models.produto.self" />
+          <option value="object.__nome" />
+          <option value="object.__preco" />
+          <option value="teste.Xbox" />
+          <option value="teste.models" />
+          <option value="teste.produto" />
+          <option value="typing.dict" />
+          <option value="mercado.models" />
+          <option value="mercado.Dict" />
+          <option value="mercado.nome" />
+          <option value="mercado.produtos" />
+          <option value="mercado.Produto" />
+          <option value="mercado.listar_produto" />
+          <option value="mercado.comprar_produto" />
+          <option value="mercado.produto" />
+          <option value="utils.helper.form" />
+          <option value="utils.helper.datetime" />
+          <option value="date" />
+          <option value="models.cliente.self" />
+          <option value="models.cliente.date_para_str" />
+          <option value="object.data_nascimento" />
+          <option value="object.codigo" />
+          <option value="object.__data_nascimento" />
+          <option value="object.nome" />
+          <option value="object.data_cadastro" />
+          <option value="models.cliente.str_para_date" />
+          <option value="models.conta.Conta.codigo" />
+          <option value="object.calcula_saldo_total" />
+          <option value="models.conta.self" />
+          <option value="object.__cliente" />
+          <option value="object.__numero" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
